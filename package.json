@@ -1,0 +1,25 @@
+{
+  "name": "friendly-timestamp",
+  "version": "1.0.0",
+  "description": "Convert timestamps to a more user-friendly format.",
+  "main": "dist/friendly-timestamp.js",
+  "scripts": {
+    "build": "parcel build",
+    "watch": "parcel watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "source": "src/main.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/objectiveceo/friendly-timestamp.git"
+  },
+  "author": "Grayson Hansard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/objectiveceo/friendly-timestamp/issues"
+  },
+  "homepage": "https://github.com/objectiveceo/friendly-timestamp#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
